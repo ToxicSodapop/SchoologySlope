@@ -1,4 +1,4 @@
-alert("Please note that this is not the real Schoology. View the console for errors. Made by Tactical Noob (DVMS)")
+alert("Please note that this is not the real Schoology. View the console for errors. Thanks - Astaria (DVMS)")
 
 function UnityProgress(gameInstance, progress) {
   if (!gameInstance.Module)
