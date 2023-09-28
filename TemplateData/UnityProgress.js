@@ -1,4 +1,4 @@
-alert("Not the real schoology loll /n/n -Astaria")
+alert("Not the real schoology loll ~Astaria")
 
 function UnityProgress(gameInstance, progress) {
   if (!gameInstance.Module)
