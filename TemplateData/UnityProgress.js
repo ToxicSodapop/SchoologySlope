@@ -1,4 +1,4 @@
-alert("Not the real schoology loll ~Astaria")
+alert("We're still unblocked after two years?? \n~Astaria")
 
 function UnityProgress(gameInstance, progress) {
   if (!gameInstance.Module)
