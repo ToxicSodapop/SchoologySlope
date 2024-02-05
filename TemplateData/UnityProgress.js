@@ -1,4 +1,4 @@
-alert("We're still unblocked after two years?? \n~Astaria")
+alert("We're still unblocked after two years?? \n\n~Astaria")
 
 function UnityProgress(gameInstance, progress) {
   if (!gameInstance.Module)
